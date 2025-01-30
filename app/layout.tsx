@@ -1,4 +1,6 @@
 import type { Metadata } from "next";
+import React from "react";
+// eslint-disable-next-line camelcase
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 
